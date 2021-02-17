@@ -7,3 +7,8 @@ const pool=new Pool({
     "database" : "todo_database"
 })
 module.exports=pool;
+{
+  "name":"Raj",
+  "role":"Manager",
+  "description":" Maintains staff by recruiting, selecting, orienting, and training employees"
+}
